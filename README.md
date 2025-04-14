@@ -43,7 +43,9 @@ Chess-StockFish là một trò chơi cờ vua được phát triển bằng Pyth
 **1. Chạy game:**
 Khởi chạy game bằng cách chạy file `main.py`:
    ```bash
-    python src/main.py ```
+    cd src
+    python main.py
+  ```
 
 **2. Chọn chế độ chơi:**
 Khi game khởi động, hệ thống sẽ yêu cầu bạn chọn **chế độ:**
