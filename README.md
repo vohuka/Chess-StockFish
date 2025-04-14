@@ -59,7 +59,7 @@ Các phím chức năng:
 ## Ý tưởng dự án:
 Dự án này được lấy cảm hứng từ:
   - **Bàn cờ Python**: [python-chess-ai-yt](https://github.com/AlejoG10/python-chess-ai-yt/tree/master) – cung cấp ý tưởng về xây dựng bàn cờ và xử lý logic nước đi.
-  - **Engine Stockfish**: [Stockfish] (https://github.com/official-stockfish/Stockfish/tree/master) – engine mạnh mẽ dùng để đánh giá và tìm kiếm nước đi, được tích hợp cho chế độ chơi với máy.
+  - **Engine Stockfish**: [Stockfish](https://github.com/official-stockfish/Stockfish/tree/master) – engine mạnh mẽ dùng để đánh giá và tìm kiếm nước đi, được tích hợp cho chế độ chơi với máy.
 
 # Game Snapshots
 
